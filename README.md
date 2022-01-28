@@ -1,8 +1,8 @@
-###### *New member
+###### *New member in Github
 
 ### Introduction
 
-Hi,
+Hi you,
 I'm @YoniGR94, and I'm using Github in order to:
 
 - Show data I have been working on
@@ -33,7 +33,6 @@ I'm @YoniGR94, and I'm using Github in order to:
 :black_nib: keras & Tensorflow
 
 #### know also
-
 :green_book: Statistic models: Lasso, Ridge, KNN, Neural Network, Random forrest...
 
 :green_book: Boosting
