@@ -9,12 +9,12 @@ I'm @YoniGR94, and I'm using Github in order to:
 - Intoduce my analytic proficiency and R programing skills
 - learning from other's skills and knowledge
 
-#### **my interest**
+#### **My interest**
 - Economics
 - Behavioral Economics
 - Methods of Statistics
 - Data visualization (ggplot, complicated plot, etc.)
-- Efficienty
+- Efficienty of things
 
 #### Prefered tools
 - R  &  Rstudio
@@ -30,9 +30,9 @@ I'm @YoniGR94, and I'm using Github in order to:
 
 :black_nib: RMarkdown
 
-:black_nib: keras & Tensorflow
+:black_nib: Keras & Tensorflow
 
-#### know also
+#### Know also
 :green_book: Statistic models: Lasso, Ridge, KNN, Neural Network, Random forrest...
 
 :green_book: Boosting
