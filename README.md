@@ -33,8 +33,10 @@ I'm @YoniGR94, and I'm using Github in order to:
 :black_nib: Keras & Tensorflow
 
 #### Know also
-:green_book: Statistic models: Lasso, Ridge, KNN, Neural Network, Random forrest...
+:green_book: Regression models: linear, glm, stepwise, Lasso, Ridge
+:green_book: other Statistic models: KNN, Neural Network, Random forrest...
 
-:green_book: Boosting
+:green_book: Boosting, adaboost
 
-:green_book: Statistic Hypothesis  checking (ln, t.test, Fisher, Tukey, BH...)
+:green_book: Statistic Hypothesis  checking (t.test, Fisher, Tukey, BH...)
+
