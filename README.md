@@ -34,7 +34,8 @@ I'm @YoniGR94, and I'm using Github in order to:
 
 #### Know also
 :green_book: Regression models: linear, glm, stepwise, Lasso, Ridge
-:green_book: other Statistic models: KNN, Neural Network, Random forrest...
+
+:green_book: Other statistic models: KNN, Neural Network, Random forrest...
 
 :green_book: Boosting, adaboost
 
