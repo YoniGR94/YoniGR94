@@ -26,9 +26,7 @@ I'm @YoniGR94, and I'm using Github in order to:
 
 :black_nib: dplyr
 
-:black_nib: kable
-
-:black_nib: RMarkdown
+:black_nib: RMarkdown & kable
 
 :black_nib: Keras & Tensorflow
 
