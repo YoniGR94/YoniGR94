@@ -1,5 +1,3 @@
-###### *New member in Github
-
 ### Introduction
 
 Hi you,
@@ -11,7 +9,7 @@ I'm @YoniGR94, and I'm using Github in order to:
 
 #### **My interest**
 - Economics
-- Behavioral Economics
+- Data analyzing
 - Methods of Statistics
 - Data visualization (ggplot, complicated plot, etc.)
 - Efficienty of things
@@ -19,6 +17,7 @@ I'm @YoniGR94, and I'm using Github in order to:
 #### Prefered tools
 - R  &  Rstudio
 - Excel & Power-Bi
+- familiar with Python
 
 #### Familiar with R's
 
