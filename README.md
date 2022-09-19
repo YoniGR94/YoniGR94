@@ -4,7 +4,7 @@ Hi you,
 I'm @YoniGR94, and I'm using Github in order to:
 
 - Show data I have been working on
-- Intoduce my analytic proficiency and R programing skills
+- Introduce my analytic proficiency in R and other programing languages
 - learning from other's skills and knowledge
 
 #### **My interest**
