@@ -34,7 +34,8 @@ I'm @YoniGR94, and I'm using Github in order to:
 #### Prefered tools
 - R  &  Rstudio
 - Excel & Power-Bi
-- familiar with Python
+- fine Python
+- basic SQL
 
 #### Known methods
 
@@ -44,7 +45,7 @@ I'm @YoniGR94, and I'm using Github in order to:
 
 :green_book: Boosting, adaboost
 
-:green_book: Statistic Hypothesis  checking (t.test, Fisher, Tukey, BH...)
+:green_book: Statistic Hypothesis checking (t.test, Fisher, Tukey, BH...)
 
 
 ### 📫 How to reach me:
