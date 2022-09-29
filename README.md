@@ -1,5 +1,3 @@
-### Introduction
-
 Hi you,
 I'm @YoniGR94, and I'm using Github in order to:
 
@@ -7,7 +5,7 @@ I'm @YoniGR94, and I'm using Github in order to:
 - Introduce my analytic proficiency in R and other programing languages
 - learning from other's skills and knowledge
 
-#### **My interest**
+### **My interest**
 - Economics
 - Data analyzing
 - Methods of Statistics
@@ -17,19 +15,24 @@ I'm @YoniGR94, and I'm using Github in order to:
 #### Familiar with R's:
  
  <div>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/rmarkdown.png" width="50" height="50" /> rmarkdown (R's MD) <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/tidyverse.png" width="50" height="50" /> tidyverse <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/tidymodels.png" width="50" height="50" /> tidymodels <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/yardstick.png" width="50" height="50" /> yardstick <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/dplyr.png" width="50" height="50" /> dplyr <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/ggplot2.png" width="50" height="50" />  ggplot2 <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/reticulate.png" width="50" height="50" /> reticulate (working in Python in Rstudio) <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/stringr.png" width="50" height="50" /> stringr <br>
-
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/rmarkdown.png" width="40" height="40" /> rmarkdown (R's MD) <br>
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/tidyverse.png" width="40" height="40" /> tidyverse <br>
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/tidymodels.png" width="40" height="40" /> tidymodels <br>
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/yardstick.png" width="40" height="40" /> yardstick <br>
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/dplyr.png" width="40" height="40" /> dplyr <br>
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/ggplot2.png" width="40" height="40" />  ggplot2 <br>
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/reticulate.png" width="40" height="40" /> reticulate (working in Python in Rstudio) <br>
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/stringr.png" width="40" height="40" /> stringr <br>
 <img src="https://user-images.githubusercontent.com/40668801/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" width="50" height="50" /> tensorflow  <br>
-  
 </div>
 <br>
+
+#### Familiar with Python's:
+ - numpy
+ - pandas
+ - networkx
+ - keras
+ - matplotlib
 
 #### Prefered tools
 - R  &  Rstudio
@@ -37,7 +40,7 @@ I'm @YoniGR94, and I'm using Github in order to:
 - fine Python
 - basic SQL
 
-#### Known methods
+### Known methods
 
 :green_book: Regression models: linear, glm, stepwise, Lasso, Ridge
 
@@ -47,7 +50,5 @@ I'm @YoniGR94, and I'm using Github in order to:
 
 :green_book: Statistic Hypothesis checking (t.test, Fisher, Tukey, BH...)
 
-
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/yoni-getahun/">My linkedin</a>
-
