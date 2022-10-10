@@ -21,7 +21,7 @@ I'm @YoniGR94, and I'm using Github in order to:
 <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/yardstick.png" width="40" height="40" /> yardstick <br>
 <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/dplyr.png" width="40" height="40" /> dplyr <br>
 <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/ggplot2.png" width="40" height="40" />  ggplot2 <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/reticulate.png" width="40" height="40" /> reticulate (working in Python in Rstudio) <br>
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/reticulate.png" width="40" height="40" /> reticulate (Python on Rstudio) <br>
 <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/stringr.png" width="40" height="40" /> stringr <br>
 <img src="https://user-images.githubusercontent.com/40668801/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" width="50" height="50" /> tensorflow  <br>
 </div>
