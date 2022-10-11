@@ -1,9 +1,6 @@
 Hi you,
-I'm @YoniGR94, and I'm using Github in order to:
 
-- Show data I have been working on
-- Introduce my analytic proficiency in R and other programing languages
-- learning from other's skills and knowledge
+I'm @YoniGR94 and welcome to my page!
 
 ### **My interest**
 - Economics
@@ -37,7 +34,7 @@ I'm @YoniGR94, and I'm using Github in order to:
 #### Prefered tools
 - R  &  Rstudio
 - Excel & Power-Bi
-- fine Python
+- Python
 - basic SQL
 
 ### Known methods
@@ -50,5 +47,14 @@ I'm @YoniGR94, and I'm using Github in order to:
 
 :green_book: Statistic Hypothesis checking (t.test, Fisher, Tukey, BH...)
 
-### 📫 How to reach me:
+## Some projects:
+
+🚒 ![Firefighter wage progress](https://github.com/YoniGR94/Firefighter_wage_progres)
+
+:credit_card: ![model selection on credit data](https://github.com/YoniGR94/my_credit_model_selection)
+
+:coffee: ![tidytuesday's Starbucks calories](https://github.com/YoniGR94/tidytuesday_Starbucks)
+
+
+## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/yoni-getahun/">My linkedin</a>
