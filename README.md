@@ -32,9 +32,8 @@ I'm @YoniGR94 and welcome to my page!
  - matplotlib
 
 #### Prefered tools
-- R  &  Rstudio
+- R & Python
 - Excel & Power-Bi
-- Python
 - basic SQL
 
 ### Known methods
@@ -47,14 +46,14 @@ I'm @YoniGR94 and welcome to my page!
 
 :green_book: Statistic Hypothesis checking (t.test, Fisher, Tukey, BH...)
 
-## Some projects:
+## Some projects
 
 🚒 ![Firefighter wage progress](https://github.com/YoniGR94/Firefighter_wage_progres)
 
-:credit_card: ![model selection on credit data](https://github.com/YoniGR94/my_credit_model_selection)
+:credit_card: ![Model selection on credit data](https://github.com/YoniGR94/my_credit_model_selection)
 
-:coffee: ![tidytuesday's Starbucks calories](https://github.com/YoniGR94/tidytuesday_Starbucks)
+:coffee: ![Tidytuesday's Starbucks calories](https://github.com/YoniGR94/tidytuesday_Starbucks)
 
 
-## 📫 How to reach me:
+## 📫 How to reach me
 <a href="https://www.linkedin.com/in/yoni-getahun/">My linkedin</a>
