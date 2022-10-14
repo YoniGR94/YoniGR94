@@ -1,3 +1,5 @@
+<img src="https://github.com/YoniGR94/YoniGR94/blob/main/who_am_I%20.png" width="375" height="175" /> <br>
+
 Hi you,
 
 I'm @YoniGR94 and welcome to my page!
