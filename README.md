@@ -11,17 +11,28 @@ I'm @YoniGR94 and welcome to my page!
 - Data visualization
 - Efficienty of things
 
+#### known tools
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50" /></a>
+<a href="https://www.rstudio.com/" target="_blank"> <img src="https://github.com/rstudio/hex-stickers/blob/master/PNG/RStudio.png" width="50" height="50" /></a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50"/></a>
+<a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" width="50" height="50"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://github.com/sempostma/office365-icons/raw/master/png/256/excel.png" width="50" height="50"/></a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="50" height="50"/></a>
+<a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/></a>
+<br />
+
+* also basic SQL (oracle)
+
 #### Familiar with R's:
- 
  <div>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/rmarkdown.png" width="40" height="40" /> rmarkdown (R's MD) <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/tidyverse.png" width="40" height="40" /> tidyverse <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/tidymodels.png" width="40" height="40" /> tidymodels <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/yardstick.png" width="40" height="40" /> yardstick <br>
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/rmarkdown.png" width="40" height="40" /> rmarkdown (R's MD) 
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/tidyverse.png" width="40" height="40" /> tidyverse
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/tidymodels.png" width="40" height="40" /> tidymodels
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/yardstick.png" width="40" height="40" /> yardstick 
 <img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/dplyr.png" width="40" height="40" /> dplyr <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/ggplot2.png" width="40" height="40" />  ggplot2 <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/reticulate.png" width="40" height="40" /> reticulate (Python on Rstudio) <br>
-<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/stringr.png" width="40" height="40" /> stringr <br>
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/ggplot2.png" width="40" height="40" />  ggplot2 
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/reticulate.png" width="40" height="40" /> reticulate (Python on Rstudio) 
+<img src="https://github.com/rstudio/hex-stickers/blob/master/thumbs/stringr.png" width="40" height="40" /> stringr 
 <img src="https://user-images.githubusercontent.com/40668801/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" width="50" height="50" /> tensorflow  <br>
 </div>
 <br>
@@ -32,12 +43,7 @@ I'm @YoniGR94 and welcome to my page!
  - networkx
  - keras
  - matplotlib
-
-#### Prefered tools
-- R & Python
-- Excel & Power-Bi
-- basic SQL
-
+ 
 ### Known methods
 
 :green_book: Regression models: linear, glm, stepwise, Lasso, Ridge
