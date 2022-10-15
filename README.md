@@ -4,14 +4,14 @@ Hi you,
 
 I'm @YoniGR94 and welcome to my page!
 
-### **My interest**
+## **My interest**
 - Economics
 - Data analyzing
 - Methods of Statistics
 - Data visualization
 - Efficienty of things
 
-#### known tools
+## known tools
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50" /></a>
 <a href="https://www.rstudio.com/" target="_blank"> <img src="https://github.com/rstudio/hex-stickers/blob/master/PNG/RStudio.png" width="50" height="50" /></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50"/></a>
