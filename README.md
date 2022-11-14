@@ -58,10 +58,11 @@ I'm @YoniGR94 and welcome to my page!
 
 🚒 ![Firefighter wage progress](https://github.com/YoniGR94/Firefighter_wage_progres)
 
-:credit_card: ![Model selection on credit data](https://github.com/YoniGR94/my_credit_model_selection)
+💳 ![Model selection on credit data](https://github.com/YoniGR94/my_credit_model_selection)
 
-:coffee: ![Tidytuesday's Starbucks calories](https://github.com/YoniGR94/tidytuesday_Starbucks)
+☕ ![Tidytuesday's Starbucks calories](https://github.com/YoniGR94/tidytuesday_Starbucks)
 
+🍬 ![My glucose reduse project](https://github.com/YoniGR94/Glucose_reduse_project)
 
 ## 📫 How to reach me
 <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="24" height="24" /> <a href="https://www.linkedin.com/in/yoni-getahun/">My linkedin</a>
