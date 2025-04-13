@@ -2,16 +2,16 @@
 
 Hi!
 
-welcome to my page!
+welcome to my GitHub page!
 
-## **My interest**
+## **My interests**
 - Economics
 - Data analyzing
 - Methods of Statistics
 - Data visualization
-- Efficienty of things
+- Efficiency and optimization
 
-## known tools
+## Tools I use
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" width="50" height="50" /></a>
 <a href="https://www.rstudio.com/" target="_blank"> <img src="https://github.com/rstudio/hex-stickers/blob/main/PNG/RStudio.png" width="50" height="50" /></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50"/></a>
@@ -23,7 +23,7 @@ welcome to my page!
 
 * Also basic SQL (Oracle, MySQL)
 
-#### Familiar with [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)'s:
+#### Familiar with [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) packages:
  <div>
 <img src="https://github.com/rstudio/hex-stickers/blob/main/thumbs/rmarkdown.png" width="40" height="40" /> rmarkdown (R's MD) 
 <img src="https://github.com/rstudio/hex-stickers/blob/main/thumbs/tidyverse.png" width="40" height="40" /> tidyverse
@@ -53,7 +53,7 @@ welcome to my page!
 
 :green_book: Boosting, adaboost
 
-:green_book: Statistic Hypothesis checking (t.test, Fisher, Tukey, BH...)
+:green_book: Statistical hypothesis testing (t.test, Fisher, Tukey, BH...)
 
 ## Some projects
 
@@ -61,7 +61,7 @@ welcome to my page!
 
 💳 ![Model selection on credit data](https://github.com/YoniGR94/my_credit_model_selection)
 
-🍬 ![My glucose reduse project](https://github.com/YoniGR94/Glucose_reduse_project)
+🍬 ![My glucose reduction project](https://github.com/YoniGR94/Glucose_reduse_project)
 
 🚒 ![Firefighter wage progress](https://github.com/YoniGR94/Firefighter_wage_progres)
 
