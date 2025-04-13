@@ -21,9 +21,9 @@ welcome to my page!
 <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/></a>
 <br />
 
-* also basic SQL (oracle, MySQL)
+* Also basic SQL (Oracle, MySQL)
 
-#### Familiar with R's:
+#### Familiar with [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)'s:
  <div>
 <img src="https://github.com/rstudio/hex-stickers/blob/main/thumbs/rmarkdown.png" width="40" height="40" /> rmarkdown (R's MD) 
 <img src="https://github.com/rstudio/hex-stickers/blob/main/thumbs/tidyverse.png" width="40" height="40" /> tidyverse
@@ -57,15 +57,17 @@ welcome to my page!
 
 ## Some projects
 
-🚒 ![Firefighter wage progress](https://github.com/YoniGR94/Firefighter_wage_progres)
+🟤![M&M Symulation-aplication](https://github.com/YoniGR94/Symulation-aplication-of-M-M)
 
 💳 ![Model selection on credit data](https://github.com/YoniGR94/my_credit_model_selection)
 
-☕ ![Tidytuesday's Starbucks calories](https://github.com/YoniGR94/tidytuesday_Starbucks)
-
 🍬 ![My glucose reduse project](https://github.com/YoniGR94/Glucose_reduse_project)
 
-🟤![M&M Symulation-aplication](https://github.com/YoniGR94/Symulation-aplication-of-M-M)
+🚒 ![Firefighter wage progress](https://github.com/YoniGR94/Firefighter_wage_progres)
+
+☕ ![Tidytuesday's Starbucks calories](https://github.com/YoniGR94/tidytuesday_Starbucks)
+
 
 ## 📫 How to reach me
-<img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="24" height="24" /> <a href="https://www.linkedin.com/in/yoni-getahun/">My linkedin</a>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+<a href="https://www.linkedin.com/in/yoni-getahun/">yoni-getahun</a>
