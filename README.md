@@ -17,7 +17,7 @@ welcome to my GitHub page!
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50"/></a>
 <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" width="50" height="50"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://github.com/sempostma/office365-icons/raw/master/png/256/excel.png" width="50" height="50"/></a>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="50" height="50"/></a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="50" height="50"/></a>
 <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/></a>
 <br />
 
@@ -55,7 +55,7 @@ welcome to my GitHub page!
 
 :green_book: Statistical hypothesis testing (t.test, Fisher, Tukey, BH...)
 
-## Some projects
+## Main Projects
 
 🟤![M&M Symulation-aplication](https://github.com/YoniGR94/Symulation-aplication-of-M-M)
 
