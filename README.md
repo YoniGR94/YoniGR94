@@ -69,5 +69,6 @@ welcome to my GitHub page!
 
 
 ## 📫 How to reach me
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-<a href="https://www.linkedin.com/in/yoni-getahun/">yoni-getahun</a>
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yoni-getahun/)
+
