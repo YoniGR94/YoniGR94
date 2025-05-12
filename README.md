@@ -5,8 +5,8 @@ Hi!
 welcome to my GitHub page!
 
 ## **My interests**
-- Economics
 - Data analyzing
+- Machine learning
 - Methods of Statistics
 - Data visualization
 - Efficiency and optimization
@@ -68,7 +68,7 @@ welcome to my GitHub page!
 ☕ ![Tidytuesday's Starbucks calories](https://github.com/YoniGR94/tidytuesday_Starbucks)
 
 
-## 📫 How to reach me
+## 📫 Reach me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yoni-getahun/)
 
